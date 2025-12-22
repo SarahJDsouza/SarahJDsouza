@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=SarahJDsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SarahJDsouza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahJDsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
+# About Me:
+- 🌱 I’m currently learning Unsupervised ML, Data Ethics, Business Experimentation
+- 👯 I’m looking to collaborate on business problems using python, ML and tableau
 [![](https://visitcount.itsvg.in/api?id=SarahJDsouza&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
